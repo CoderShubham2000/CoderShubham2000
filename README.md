@@ -3,7 +3,7 @@
 I am a highly motivated, passionate, and determined Computer Science student at Sister Nivedita University. I have proven skills and adaptability gained through the events and work placements in various organizations. I am looking forward to getting a work placement  to enhance my skills and value to the organization & myself. 
 
 
-### I am a Leader, Engineer, Cybersecurity Analyst!
+### I am a Leader, Engineer, Cybersecurity Analyst and wanna-be IAS!
 
 - 🔭 I’m currently working on a Machine Learning Project - Genre Classification from Music Data Set
 - 🌱 I’m currently learning Flutter, Dart, and everything :-3
