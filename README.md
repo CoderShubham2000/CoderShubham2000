@@ -1,4 +1,4 @@
-### I'm Shubham - aka CoderShubham2000
+### Hi there, I'm Shubham - aka CoderShubham2000 👋
 
 I am a highly motivated, passionate, and determined Computer Science student at Sister Nivedita University. I have proven skills and adaptability gained through the events and work placements in various organizations. I am looking forward to getting a work placement  to enhance my skills and value to the organization & myself. 
 
