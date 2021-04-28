@@ -1,9 +1,9 @@
-### Hi there, I'm Shubham - aka CoderShubham2000 👋
+### Hi there, I'm Shubham - aka CoderShubham2000 👋 ![](https://visitor-badge.glitch.me/badge?page_id=CoderSHubham2000.CoderShubham2000.)
+<br />
 
 Currently a participant in MLH: Local Hack Day!
 
 I am a highly motivated, passionate, and determined Computer Science student at Sister Nivedita University. I have proven skills and adaptability gained through the events and work placements in various organizations. I am looking forward to getting a work placement  to enhance my skills and value to the organization & myself. 
-
 
 ### I am a Leader, Engineer, Cybersecurity Analyst and a Web Developer!
 
@@ -29,9 +29,6 @@ I am a highly motivated, passionate, and determined Computer Science student at 
 
 [1]: https://twitter.com/shubham_tribedi
 [2]: https://www.facebook.com/shubham.tribedi
-
-![](https://visitor-badge.glitch.me/badge?page_id=CoderSHubham2000.CoderShubham2000.)
-<br />
 
 ### 😌 My GitHub Stats:
 
