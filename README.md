@@ -31,7 +31,7 @@ I am a highly motivated, passionate, and determined Computer Science student at 
 
 ### 😌 My GitHub Stats:
 
-<p> <img src="https://github-readme-stats.vercel.app/api?username=CoderShubham2000&show_icons=true&theme=gotham" alt="CoderShubham2000" /> <!--you can use merko/dark/ radical/ merko/ gruvbox/ tokyonight/ onedark/ cobalt/ synthwave/highcontrast/ dracula-->
+<p> <<img src="https://github-readme-stats.vercel.app/api?username=CoderShubham2000&show_icons=true&hide_border=true&count_private=true" /> <!--you can use merko/dark/ radical/ merko/ gruvbox/ tokyonight/ onedark/ cobalt/ synthwave/highcontrast/ dracula-->
   
  <!--Adding private contributions count to total commits count
 ![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=CoderShubham2000&count_private=true)-->
