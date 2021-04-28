@@ -31,7 +31,7 @@ I am a highly motivated, passionate, and determined Computer Science student at 
 
 ### 😌 My GitHub Stats:
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=CoderShubham2000&show_icons=true&theme=gotham" alt="CoderShubham2000" /> <!--you can use merko/dark/ radical/ merko/ gruvbox/ tokyonight/ onedark/ cobalt/ synthwave/highcontrast/ dracula-->
+<p> <img src="https://github-readme-stats.vercel.app/api?username=CoderShubham2000&show_icons=true&theme=gotham" alt="CoderShubham2000" /> <!--you can use merko/dark/ radical/ merko/ gruvbox/ tokyonight/ onedark/ cobalt/ synthwave/highcontrast/ dracula-->
   
  <!--Adding private contributions count to total commits count
 ![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=CoderShubham2000&count_private=true)-->
@@ -41,6 +41,8 @@ I am a highly motivated, passionate, and determined Computer Science student at 
 ![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=CoderShubham2000&show_icons=true)-->
 <!--theme colour change  
 ![SHubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=CoderShubham2000&show_icons=true&theme=merko/dark/ radical/ merko/ gruvbox/ tokyonight/ onedark/ cobalt/ synthwave/highcontrast/ dracula)-->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=CoderShubham2000&show_icons=true&hide_border=false">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoderShubham2000&show_icons=true&hide_border=false&layout=compact&langs_count=8">
 
 ### 😏 Coding Stats:
 <!--START_SECTION:waka-->
@@ -56,6 +58,9 @@ SQL       22 hrs 05 mins  █████████████               
 ![](https://visitor-badge.glitch.me/badge?page_id=CoderSHubham2000.CoderShubham2000.)
 <br />
 
+### 🎧 Spotify Playing
+
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/ykstv4r8kvi00hlge7sw84jk1)
 
 ### 🤓 Fluent in: 
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" /> <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" /> <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" /> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white" />
@@ -110,3 +115,5 @@ That's all I remember.
 <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/> 
 
 ### Proud to be a XAVERIAN!
+
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
