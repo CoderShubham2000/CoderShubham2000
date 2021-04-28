@@ -42,7 +42,9 @@ I am a highly motivated, passionate, and determined Computer Science student at 
 <!--theme colour change  
 ![SHubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=CoderShubham2000&show_icons=true&theme=merko/dark/ radical/ merko/ gruvbox/ tokyonight/ onedark/ cobalt/ synthwave/highcontrast/ dracula)-->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=CoderShubham2000&show_icons=true&hide_border=true">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoderShubham2000&show_icons=true&hide_border=false&layout=compact&langs_count=8">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoderShubham2000&show_icons=true&hide_border=false&layout=compact&langs_count=8">
+</p>
 
 ### 😏 Coding Stats:
 <!--START_SECTION:waka-->
