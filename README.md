@@ -16,7 +16,7 @@ I am a highly motivated, passionate, and determined Computer Science student at 
 - ⚡ Fun fact: I am also a Gamer, playing games like a pro BOT XD.
 - 😎 Most liked Quote: Once a XAVERIAN, always a XAVERIAN!
 - 👾 Most Active Social Media Handle:  [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/shubham-tribedi)
-- 📝 [Resume](https://drive.google.com/file/d/1yyMSiTQNsQ6r-piuYhYF5WCVmgqWmNUP/view?usp=sharing)
+- 📝 My Resume: [Click Here!](https://drive.google.com/file/d/1yyMSiTQNsQ6r-piuYhYF5WCVmgqWmNUP/view?usp=sharing)
 &nbsp;
 
 ### 🧐 Social Media Handles:
