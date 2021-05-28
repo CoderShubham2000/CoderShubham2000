@@ -1,6 +1,9 @@
-### Hi there, I'm Shubham - aka CoderShubham2000 👋 
-
-<strong>Checkout my Portfolio</strong>: [Click Here!](https://shubham-tribedi.tech/)
+<h1 align="center">Hi 👋, I'm Shubham Tribedi</h1>
+<h3 align="center">A Tech Geek from India</h3>
+	
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=CoderShubham2000&color=blueviolet&style=flat">
+</p>
 
 Currently a 2nd Position holder in MLH: Local Hack Day!
 
@@ -20,6 +23,8 @@ I am a highly motivated, passionate, and determined Computer Science student at 
 - 👾 Most Active Social Media Handle:  [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/shubham-tribedi)
 - 📝 My Resume: [Click Here!](https://drive.google.com/file/d/1yyMSiTQNsQ6r-piuYhYF5WCVmgqWmNUP/view?usp=sharing)
 &nbsp;
+
+<strong>Checkout my Portfolio</strong>: [Click Here!](https://shubham-tribedi.tech/)
 
 ### 🧐 Social Media Handles:
 [![alt text][1.1]][1]
