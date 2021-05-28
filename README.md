@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shubham Tribedi</h1>
 <h3 align="center">A Tech Geek from India</h3>
+<h5 align="center">President at GeeksforGeeks SNU Chapter & CodeChef SNU Chapter. Leader at HackClub SNU and Moz://a Kolkata</h5>
 	
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=CoderShubham2000&color=blueviolet&style=flat">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=CoderSHubham2000.CoderShubham2000.">
 </p>
 
 Currently a 2nd Position holder in MLH: Local Hack Day!
@@ -68,9 +69,6 @@ R         12 hrs 36 mins  ████████                    29.12%
 SQL       22 hrs 05 mins  █████████████               55.26%
 ```
 <!--END_SECTION:waka-->
-
-![](https://visitor-badge.glitch.me/badge?page_id=CoderSHubham2000.CoderShubham2000.)
-<br />
 
 ### 🎧 Spotify Playing:
 
