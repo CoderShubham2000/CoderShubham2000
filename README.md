@@ -126,6 +126,10 @@ That's all I remember.
 <img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/> 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=CoderShubham2000&label=Profile%20views&color=0e75b6&style=flat" alt="CoderShubham2000" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=CoderShubham2000" alt="CoderShubham2000" /></a> </p>
+
 ### Proud to be a XAVERIAN!
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
