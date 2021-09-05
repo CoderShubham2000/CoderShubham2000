@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shubham Tribedi</h1>
-<h3 align="center">A Geek from India</h3>
-<h5 align="center">President at GeeksforGeeks SNU Chapter & CodeChef SNU Chapter. Leader at HackClub SNU and Moz://a Kolkata</h5>
+<h3 align="center">Community Specialist at Unacademy (CodeChef)</h3>
+<h5 align="center">President at GeeksforGeeks SNU Chapter. Leader at HackClub SNU and Moz://a Kolkata</h5>
 	
 <p align="center">
   <img src="https://visitor-badge.glitch.me/badge?page_id=CoderSHubham2000.CoderShubham2000.">
