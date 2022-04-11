@@ -130,6 +130,8 @@ That's all I remember.
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=CoderShubham2000" alt="CoderShubham2000" /></a> </p>
 
-### Proud to be a XAVERIAN!
+### Snake eating my contribution graph (Less Food Present)
+
+![snake gif](https://github.com/CoderShubham2000/CoderShubham2000/blob/output/github-contribution-grid-snake.gif)
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
