@@ -130,7 +130,7 @@ That's all I remember.
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=CoderShubham2000" alt="CoderShubham2000" /></a> </p>
 
-### Snake eating my contribution graph (Less Food Present)
+### Snake eating my contribution graph (Less Food Present) 🤣
 
 ![snake gif](https://github.com/CoderShubham2000/CoderShubham2000/blob/output/github-contribution-grid-snake.gif)
 
