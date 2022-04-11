@@ -2,9 +2,6 @@
 <h3 align="center">Community Specialist at Unacademy (CodeChef)</h3>
 <h5 align="center">President at GeeksforGeeks SNU Chapter. Leader at HackClub SNU and Moz://a Kolkata</h5>
 	
-<p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=CoderSHubham2000.CoderShubham2000.">
-</p>
 
 Currently a 2nd Position holder in MLH: Local Hack Day!
 
@@ -28,14 +25,10 @@ I am a highly motivated, passionate, and determined Computer Science student at 
 <strong>Checkout my Portfolio</strong>: [Click Here!](https://shubham-tribedi.tech/)
 
 ### 🧐 Social Media Handles:
-[![alt text][1.1]][1]
-[![alt text][2.1]][2]
 
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
+<a href="https://twitter.com/shubhamtribedi" target="blank"><img src="https://img.shields.io/twitter/follow/shubham_tribedi?logo=twitter&style=for-the-badge" alt="shubham_tribedi" /></a>
+<a href="https://www.linkedin.com/in/shubham-tribedi/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="shubham-tribedi" /></a>
 
-[1]: https://twitter.com/shubham_tribedi
-[2]: https://www.facebook.com/shubham.tribedi
 
 ### 😌 My GitHub Stats:
   
@@ -69,10 +62,6 @@ R         12 hrs 36 mins  ████████                    29.12%
 SQL       22 hrs 05 mins  █████████████               55.26%
 ```
 <!--END_SECTION:waka-->
-
-### 🎧 Spotify Playing:
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/cpmthwxfijtrvh5p04siu2273)
 
 ### 🤓 Fluent in: 
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" /> <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" /> <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" /> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white" />
