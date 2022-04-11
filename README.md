@@ -2,9 +2,6 @@
 <h3 align="center">Community Specialist at Unacademy (CodeChef)</h3>
 <h5 align="center">President at GeeksforGeeks SNU Chapter. Leader at HackClub SNU and Moz://a Kolkata</h5>
 	
-
-Currently a 2nd Position holder in MLH: Local Hack Day!
-
 I am a highly motivated, passionate, and determined Computer Science student at Sister Nivedita University. I have proven skills and adaptability gained through the events and work placements in various organizations. I am looking forward to getting a work placement  to enhance my skills and value to the organization & myself. 
 
 ### I am a Leader, Engineer, Cybersecurity Analyst and a Web Developer!
