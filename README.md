@@ -4,117 +4,41 @@
 	
 I am a highly motivated, passionate, and determined Computer Science student at Sister Nivedita University. I have proven skills and adaptability gained through the events and work placements in various organizations. I am looking forward to getting a work placement  to enhance my skills and value to the organization & myself. 
 
-### I am a Leader, Engineer, Cybersecurity Analyst and a Web Developer!
+# 💫About Me :
+🔭 I’m currently working on Communities at Unacademy (CodeChef).
+🌱 I’m currently learning how to advocate communities and lead them to success.
+👯 I’m looking to collaborate with other communities and work together.
+🤔 I’m looking for help with a tool for mantaining a community.
+💬 Ask me about how communities function in real life an.
+📫 How to reach me: Mail me @ shubhamtribedi@codechef.com
+😄 Pronouns: Aise to log mujhe BHAU bolte hai, aap bhi boliye magar "PREM SE"
+⚡ Fun fact: I am also a Gamer, playing games like a pro BOT XD.
+😎 Most liked Quote: Once a XAVERIAN, always a XAVERIAN!
 
-- 🔭 I’m currently working on a Machine Learning Project - Genre Classification from Music Data Set
-- 🌱 I’m currently learning Flutter, Dart, and everything :-3
-- 👯 I’m looking to collaborate with other university team leaders in any committee and work together
-- 🤔 I’m looking for help with learning Flutter App Development
-- 💬 Ask me about how Computers work in terms of Hardware or Software.
-- 📫 How to reach me: Mail me @ shubhamtribedi@outlook.com
-- 😄 Pronouns: Aise to log mujhe BHAU bolte hai, aap bhi boliye magar "PREM SE"
-- ⚡ Fun fact: I am also a Gamer, playing games like a pro BOT XD.
-- 😎 Most liked Quote: Once a XAVERIAN, always a XAVERIAN!
-- 👾 Most Active Social Media Handle:  [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/shubham-tribedi)
-- 📝 My Resume: [Click Here!](https://drive.google.com/file/d/1yyMSiTQNsQ6r-piuYhYF5WCVmgqWmNUP/view?usp=sharing)
-&nbsp;
+## 🌐Socials
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/https://discord.io/Hack4Bengal) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/shubham.tribedi) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shubhamtribedi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shubham-tribedi) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/shubham_tribedi) 
 
-<strong>Checkout my Portfolio</strong>: [Click Here!](https://shubham-tribedi.tech/)
+# 💻Tech Stack
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=CoderShubham2000&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=CoderShubham2000&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=CoderShubham2000&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🧐 Social Media Handles:
+## 🏆GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=CoderShubham2000&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-<a href="https://twitter.com/shubhamtribedi" target="blank"><img src="https://img.shields.io/twitter/follow/shubham_tribedi?logo=twitter&style=for-the-badge" alt="shubham_tribedi" /></a>
-<a href="https://www.linkedin.com/in/shubham-tribedi/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="shubham-tribedi" /></a>
+### ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+---
+[![](https://visitcount.itsvg.in/api?id=CoderShubham2000&icon=5&color=0)](https://visitcount.itsvg.in)
 
-### 😌 My GitHub Stats:
+  ## 💰You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/shubhamtribedi) 
+
+  <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   
- <!--Adding private contributions count to total commits count
-![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=CoderShubham2000&count_private=true)-->
-<!--
-![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=CoderShubham2000&hide=contribs,prs)-->
-<!--Showing icons
-![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=CoderShubham2000&show_icons=true)-->
-<!--theme colour change  
-![SHubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=CoderShubham2000&show_icons=true&theme=merko/dark/ radical/ merko/ gruvbox/ tokyonight/ onedark/ cobalt/ synthwave/highcontrast/ dracula)-->
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CoderShubham2000&show_icons=true&hide_border=true">
-</p>
-
-<p align="center">
-<a href="https://github.com/CoderShubham2000">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=CoderShubham2000&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CoderShubham2000&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
-
-### 😏 Coding Stats:
-<!--START_SECTION:waka-->
-```text
-C++       92 hrs 26 mins  █████████████████████████   99.84 % 
-Python    22 hrs 54 mins  ██████████████████          64.55%
-C         54 hrs 22 mins  █████████████████████       88.67%
-R         12 hrs 36 mins  ████████                    29.12%
-SQL       22 hrs 05 mins  █████████████               55.26%
-```
-<!--END_SECTION:waka-->
-
-### 🤓 Fluent in: 
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" /> <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" /> <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" /> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white" />
-
-### 🖥 My WorkStation (Main):
-<img src="https://img.shields.io/badge/NVIDIA-GeForce RTX 2070 SUPER-76B900?style=for-the-badge&logo=nvidia&logoColor=white" /> <img src="https://img.shields.io/badge/AMD-Ryzen_7_3800X-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
-
-### 🖥 My WorkStation (Assist):
-<img src="https://img.shields.io/badge/AMD-Radeon_RX_460-ED1C24?style=for-the-badge&logo=amd&logoColor=white" /> <img src="https://img.shields.io/badge/AMD-Ryzen_5_1400-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
-
-
-### 💻 My Laptops:
-<img src="https://img.shields.io/badge/Apple-MacBook_Pro_2018-999999?style=for-the-badge&logo=apple&logoColor=white"/> 
-
-### 📱 Mobiles ans Tabs I use/used: (Atleast, I have, tbh)
-Samsung Galaxy S6 Edge Plus, S7 Edge, S8 Edge Plus, S10 Edge Plus, 
-Samsung Galaxy Note 3,5,7,9,10 and 10 Plus, 
-OnePlus 6T, 7 Pro, 
-iPhone XS Max, 11 Pro, 11 Pro Max, 
-iPad Pro 2016, 2018, 2020, 
-Samsung Galaxy Tab 3, 10.1.
-
-That's all I remember.
-
-### 🎮 Games:
-<img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/>  <img src="https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white"/> <img src="https://img.shields.io/badge/VALORANT-000000?style=for-the-badge&logo=counter-strike&logoColor=blue"/> 
-
-### 🎧 I Listen to Songs on:
-<img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/>  <img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white"/> 
-
-### 🎥 I Watch:
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>  <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/>  <img src="https://img.shields.io/badge/YouTube_Gaming-FF0000?style=for-the-badge&logo=youtube-gaming&logoColor=white"/>  <img src="https://img.shields.io/badge/Facebook_Gaming-005FED?style=for-the-badge&logo=facebook-gaming&logoColor=white"/>  <img src="https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white"/> 
-
-### The Operating Systems, I use:
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"/>  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>  <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white"/> 
-
-### Oh! I almost forgot to mention these:
-<img src="https://img.shields.io/badge/Windows_95-008080?style=for-the-badge&logo=windows-95&logoColor=white"/>  <img src="https://img.shields.io/badge/Windows_XP-003399?style=for-the-badge&logo=windows-xp&logoColor=white"/> 
-
-### I also use apps from:
-<img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"/>  <img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white"/> 
-
-### The Reason for my success: (Success in the future, Maybe😓)
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>  <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/>  <img src="https://img.shields.io/badge/XDA_Developers-F59812?style=for-the-badge&logo=xda-developers&logoColor=white"/>  <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/> 
-
-### I also use these for Communication: (As its work from home, LOL)
-<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/> <img src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white"/> <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white"/> 
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/> 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=CoderShubham2000&label=Profile%20views&color=0e75b6&style=flat" alt="CoderShubham2000" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=CoderShubham2000" alt="CoderShubham2000" /></a> </p>
 
 ### Snake eating my contribution graph (Less Food Present) 🤣
 
