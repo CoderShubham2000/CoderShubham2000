@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Shubham Tribedi</h1>
-<h3 align="center">Community Specialist at Unacademy (CodeChef)</h3>
-<h5 align="center">President at GeeksforGeeks SNU Chapter. Leader at HackClub SNU and Moz://a Kolkata</h5>
+<h3 align="center">Program Coordinator at Unacademy (CodeChef)</h3>
+<h5 align="center">Ex-Community Specialist at Unacademy (CodeChef) | GitHub Externship Fellow '21 @ Leverice | Lead Organiser @ Hack4Bengal</h5>
 	
-I am a highly motivated, passionate, and determined Computer Science student at Sister Nivedita University. I have proven skills and adaptability gained through the events and work placements in various organizations. I am looking forward to getting a work placement  to enhance my skills and value to the organization & myself. 
+I am a highly motivated, passionate, and determined Community Guy. I have proven skills and adaptability gained through the events and work placements in various organizations. Currently, I am a Community Specialist Intern at Unacademy and have managed CodeChef College Chapters all over India. Currently managing the CodeChef College Program for universities and colleges.
 
 # 💫About Me :
-🔭 I’m currently working on Communities at Unacademy (CodeChef).
-🌱 I’m currently learning how to advocate communities and lead them to success.
-👯 I’m looking to collaborate with other communities and work together.
-🤔 I’m looking for help with a tool for mantaining a community.
-💬 Ask me about how communities function in real life an.
-📫 How to reach me: Mail me @ shubhamtribedi@codechef.com
-😄 Pronouns: Aise to log mujhe BHAU bolte hai, aap bhi boliye magar "PREM SE"
-⚡ Fun fact: I am also a Gamer, playing games like a pro BOT XD.
-😎 Most liked Quote: Once a XAVERIAN, always a XAVERIAN!
+🔭 I’m currently working on Communities and College Programs at Unacademy (CodeChef).<br>
+🌱 I’m currently learning how to advocate communities and lead them to success.<br>
+👯 I’m looking to collaborate with other communities and work together.<br>
+🤔 I’m looking for help with a tool for mantaining a community.<br>
+💬 Ask me about how communities function in real life an.<br>
+📫 How to reach me: Mail me @ shubhamtribedi@codechef.com<br>
+😄 Pronouns: Aise to log mujhe BHAU bolte hai, aap bhi boliye magar "PREM SE"<br>
+⚡ Fun fact: I am also a Gamer, playing games like a pro BOT XD.<br>
+😎 Most liked Quote: Once a XAVERIAN, always a XAVERIAN!<br>
 
 ## 🌐Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/https://discord.io/Hack4Bengal) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/shubham.tribedi) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shubhamtribedi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shubham-tribedi) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/shubham_tribedi) 
