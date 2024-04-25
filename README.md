@@ -39,5 +39,6 @@ I'm a passionate Sales & Marketing Developer at Callchimp, specializing in ident
 
 ## Let's Connect!
 
-Feel free to reach out to me on [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/shubham-tribedi/))!
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/shubham-tribedi/)!
+
 
