@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a passionate Sales & Marketing Developer at Callchimp, specializing in identifying new business opportunities, nurturing client relationships, and guiding strategic growth decisions. Additionally, I'm the Lead Organizer of Hack4Bengal, where I collaborate with the Government of West Bengal and NASSCOM to provide a platform for student talent in technology.
+I'm a passionate Sales & Marketing Developer at Callchimp, specializing in identifying new business opportunities, nurturing client relationships, and guiding strategic growth decisions. Additionally, I'm the Lead Organizer of Hack4Bengal, where I provide a platform for student talent in technology.
 
 ## Experience
 
