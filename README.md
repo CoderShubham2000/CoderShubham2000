@@ -6,7 +6,7 @@ I'm a passionate Sales & Marketing Developer at Callchimp, specializing in ident
 
 ## Experience
 
-### Sales & Marketing Developer at Callchimp
+### Product Manager at Callchimp
 - **Mar 2024 - Present** · Kolkata, West Bengal, India (Remote)
 - Identifying and pursuing new business opportunities.
 - Developing and maintaining relationships with potential clients or partners.
