@@ -6,8 +6,10 @@ I'm a passionate Product Manager at Callchimp.ai (Dynopii), specializing in iden
 
 ## Experience
 
+Current Experiences loading soon .............
+
 ### Product Manager at Callchimp
-- **Mar 2024 - Present** · Kolkata, West Bengal, India (Remote)
+- **Mar 2024 - Dec 2024** · Kolkata, West Bengal, India (Remote)
 - Identifying and pursuing new business opportunities.
 - Developing and maintaining relationships with potential clients or partners.
 - Negotiating contracts and contributing to strategic decision-making regarding business growth.
